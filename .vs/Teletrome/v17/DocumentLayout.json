@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Workspace\\Chrome Telemetry\\Teletrome\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A63E7A00-7EEE-F397-2356-9FA0B3C5180A}|Teletrome_API\\Teletrome.API\\Teletrome.API.csproj|c:\\workspace\\chrome telemetry\\teletrome\\teletrome_api\\teletrome.api\\teletrome.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A63E7A00-7EEE-F397-2356-9FA0B3C5180A}|Teletrome_API\\Teletrome.API\\Teletrome.API.csproj|solutionrelative:teletrome_api\\teletrome.api\\teletrome.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teletrome.API.csproj",
+              "DocumentMoniker": "C:\\Workspace\\Chrome Telemetry\\Teletrome\\Teletrome_API\\Teletrome.API\\Teletrome.API.csproj",
+              "RelativeDocumentMoniker": "Teletrome_API\\Teletrome.API\\Teletrome.API.csproj",
+              "ToolTip": "C:\\Workspace\\Chrome Telemetry\\Teletrome\\Teletrome_API\\Teletrome.API\\Teletrome.API.csproj",
+              "RelativeToolTip": "Teletrome_API\\Teletrome.API\\Teletrome.API.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T02:11:50.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
