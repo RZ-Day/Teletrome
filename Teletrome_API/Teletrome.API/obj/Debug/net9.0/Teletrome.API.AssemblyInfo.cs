@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teletrome.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea7ec700500140e43ee470356a72a2e71da9ebc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d4e9ba999c5ceeb2d37fee110f3c4910fbdef32")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teletrome.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teletrome.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
